@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Install <project_name>
+## Installing <project_name>
 
 To install <project_name>, fork this repository on GitHub and follow these steps:
 
@@ -40,3 +40,4 @@ To install <project_name>, fork this repository on GitHub and follow these steps
   ```
   npm install 
   ```
+
