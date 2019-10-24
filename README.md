@@ -11,4 +11,4 @@ Before you begin, ensure you have met the following requirements:
 * You have installed the latest version of <coding_langauge/dependency/requirement_1>
 * You have a <Windows/Linux/Mac> machine. State which OS is supported/which is not.
 * You have read <guide/link/documentation_related_to_project>.
-* You have made sure port <number> is open.
+* You have made sure port <port_number> is open.
