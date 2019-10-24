@@ -23,20 +23,20 @@ Before you begin, ensure you have met the following requirements:
 
 To install <project_name>, fork this repository on GitHub and follow these steps:
 
-1. Clone the forked repository to your local machine. To do this run:
+  1. Clone the forked repository to your local machine. To do this run:
 
-```
-git clone https://github.com/<your_project_name>
-```
+  ```
+  git clone https://github.com/<your_project_name>
+  ```
 
-2. Navigate to the repository:
+  2. Navigate to the repository:
 
-```
-cd <your_project_name>
-```
+  ```
+  cd <your_project_name>
+  ```
 
-3. Install the project:
+  3. Install the project:
 
-```
-npm install 
-```
+  ```
+  npm install 
+  ```
