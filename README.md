@@ -39,3 +39,31 @@ To use <project_name>, follow these steps:
 ```
 <usage_example>
 ```
+
+Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+
+## Contributing to <project_name>
+
+To contribute to <project_name>, follow these steps:
+
+1. Fork this repository.
+2. Clone the forked repository to your local machine. For example:
+
+```
+git clone https://github.com/<forked_repository_path>.git
+```
+
+3. Navigate to the repository and make your contributions.
+
+```
+cd <forked_repository_path>
+```
+
+4. Create a branch using `git checkout -b <branch_name>`. For example:
+
+```
+git checkout -b my-branch
+```
+
+5. Make your changes
+
