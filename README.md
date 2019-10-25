@@ -32,3 +32,10 @@ Windows:
 ```
 <install_command>
 ```
+## Using <project_name>
+
+To use <project_name>, follow these steps:
+
+```
+<usage_example>
+```
