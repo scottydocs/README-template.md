@@ -43,7 +43,7 @@ To use <project_name>, follow these steps:
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
 ## Contributing to <project_name>
-
+<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file---> 
 To contribute to <project_name>, follow these steps:
 
 1. Fork this repository.
@@ -69,3 +69,6 @@ You might want to consider using something like the [All Contributors](https://g
 If you want to contact me you can find my contact details on www.scottydocs.com.
 
 ## License 
+<!--- If you're not sure which open license to use see https://choosealicense.com/--->
+
+This project uses the following license: [<license_name>](<link>).
