@@ -23,12 +23,17 @@ Before you begin, ensure you have met the following requirements:
 
 To install <project_name>, follow these steps:
 
-Linux and macOS:
+🐧 Linux:
 ```
 <install_command>
 ```
 
-Windows:
+🍎 macOS:
+```
+<install_command>
+```
+
+🖼️ Windows:
 ```
 <install_command>
 ```
@@ -47,23 +52,17 @@ Add run commands and examples you think users will find useful. Provide an optio
 To contribute to <project_name>, follow these steps:
 
 1. Fork this repository.
-2. Clone the forked repository to your local machine. For example:
+2. Create a branch: `git checkout -b <branch_name>`. 
+3. Make your changes and commit them: `git commit -m '<commit_message>'
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
 
-```
-git clone https://github.com/<forked_repository_path>.git
-```
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-3. Navigate to the repository and make your contributions.
+## Acknowledements
 
-```
-cd <forked_repository_path>
-```
+Thanks to the following people who have contributed to this project:
 
-4. Create a branch using `git checkout -b <branch_name>`. For example:
-
-```
-git checkout -b my-branch
-```
-
-5. Make your changes
-
+@scottydocs
+@<person1>
+@<person2>
