@@ -61,6 +61,8 @@ Thanks to the following people who have contributed to this project:
 <table>
   <tr>
     <td align="center"><a href="https://scottydocs.com"><img src="https://avatars1.githubusercontent.com/u/19390956?s=460&v=4" width="100px;" alt="James Scott"/><br /><sub><b>James Scott</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="#review-kentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    <td align="center"><a href="https://<website>"><img src="<image_source>" width="100px;" alt="TBC"/><br /><sub><b>TBC</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="#review-kentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    <td align="center"><a href="https://scottydocs.com"><img src="https://avatars1.githubusercontent.com/u/19390956?s=460&v=4" width="100px;" alt="James Scott"/><br /><sub><b>James Scott</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="#review-kentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
   </tr>
   </table>
 
