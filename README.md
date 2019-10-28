@@ -58,9 +58,9 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 Thanks to the following people who have contributed to this project:
 
-@scottydocs 📖
-@developer1 💻🐛
-@developer2 🚧💻💬
+@scottydocs 📖 /
+@developer1 💻🐛/
+@developer2 🚧💻💬/
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
