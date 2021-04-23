@@ -1,74 +1,67 @@
-# Project name
+# Nome do Projeto
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+O nome do projeto é um `<utilitário / ferramenta / recurso>` que permite que `<insert_target_audience>` faça `<action / task_it_does>`.
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 frases. Não exagere, as pessoas não vão ler.
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+## Pré-requisitos
 
-## Prerequisites
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<! --- Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário --->
+* Você instalou a versão mais recente de `<coding_language / dependency / required_1>`
+* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+* Você leu `<guide / link / documentation_related_to_project>`.
 
-Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
+## Instalando <project_name>
 
-## Installing <project_name>
+Para instalar o <project_name>, siga estas etapas:
 
-To install <project_name>, follow these steps:
-
-Linux and macOS:
-```
+Linux e macOS:
+`` `
 <install_command>
-```
+`` `
 
-Windows:
-```
+Janelas:
+`` `
 <install_command>
-```
-## Using <project_name>
+`` `
+## Usando <project_name>
 
-To use <project_name>, follow these steps:
+Para usar <project_name>, siga estas etapas:
 
-```
+`` `
 <usage_example>
-```
+`` `
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+## Contribuindo para <project_name>
+<! --- Se o seu README for longo ou você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado --->
+Para contribuir com <project_name>, siga estas etapas:
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <branch_name>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<commit_message>'`
+4. Envie para o branch original: `git push origin <project_name> / <location>`
+5. Crie a solicitação pull.
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Como alternativa, consulte a documentação do GitHub sobre [como criar uma solicitação pull] (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## Colaboradores
 
-Thanks to the following people who have contributed to this project:
+Obrigado às seguintes pessoas que contribuíram para este projeto:
 
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
+* [@scottydocs] (https://github.com/scottydocs) 📖
+* [@cainwatson] (https://github.com/cainwatson) 🐛
+* [@calchuchesta] (https://github.com/calchuchesta) 🐛
 
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+Você pode querer considerar o uso de algo como a especificação [All Contributors] (https://github.com/all-contributors/all-contributors) e sua [chave emoji] (https://allcontributors.org/docs/en/ tecla emoji).
 
-## Contact
+## Contato
 
-If you want to contact me you can reach me at <your_email@address.com>.
+Se quiser entrar em contato comigo, você pode entrar em contato comigo em <your_email@address.com>.
 
-## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
+## Licença
+<! --- Se você não tiver certeza de qual licença aberta usar, consulte https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+Este projeto usa a seguinte licença: [<license_name>] (<link>).
