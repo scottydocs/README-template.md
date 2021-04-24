@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-O nome do projeto é um `<utilitário / ferramenta / recurso>` que permite que `<insert_target_audience>` faça `<action / task_it_does>`.
+O nome do projeto é um `<utilitário/ferramenta/recurso>` que permite que `<inserir_público_alvo>` faça `<ação/tarefa_que_faz>`.
 
 Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 frases. Não exagere, as pessoas não vão ler.
 
@@ -8,29 +8,29 @@ Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <! --- Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário --->
-* Você instalou a versão mais recente de `<coding_language / dependency / required_1>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guide / link / documentation_related_to_project>`.
+* Você instalou a versão mais recente de `<linguagem_de_codifica;cão/dependênia>`
+* Você tem uma máquina `<Windows/Linux/Mac>`. Indique qual sistema operacional é compatível/não compatível.
+* Você leu `<guia/link/ documentação_relacionada_ao_projeto>`.
 
-## Instalando <project_name>
+## Instalando <nome_do_projeto>
 
-Para instalar o <project_name>, siga estas etapas:
+Para instalar o <nome_do_projeto>, siga estas etapas:
 
 Linux e macOS:
 `` `
-<install_command>
+<comando_de_instalação>
 `` `
 
-Janelas:
+Windows:
 `` `
-<install_command>
+<comando_de_instalação>
 `` `
-## Usando <project_name>
+## Usando <nome_do_projeto>
 
-Para usar <project_name>, siga estas etapas:
+Para usar <nome_do_projeto>, siga estas etapas:
 
 `` `
-<usage_example>
+<exemplo_de_uso>
 `` `
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
@@ -54,14 +54,15 @@ Obrigado às seguintes pessoas que contribuíram para este projeto:
 * [@scottydocs] (https://github.com/scottydocs) 📖
 * [@cainwatson] (https://github.com/cainwatson) 🐛
 * [@calchuchesta] (https://github.com/calchuchesta) 🐛
+* [@sweydabdul] (https://github.com/sweydabdul) 🐛
 
 Você pode querer considerar o uso de algo como a especificação [All Contributors] (https://github.com/all-contributors/all-contributors) e sua [chave emoji] (https://allcontributors.org/docs/en/ tecla emoji).
 
 ## Contato
 
-Se quiser entrar em contato comigo, você pode entrar em contato comigo em <your_email@address.com>.
+Se quiser entrar em contato comigo, você pode entrar em contato comigo em <seu_email@address.com>.
 
 ## Licença
-<! --- Se você não tiver certeza de qual licença aberta usar, consulte https://choosealicense.com/--->
+<! --- Se você não tiver certeza de qual licença aberta usar, use o MIT License ou consulte https://choosealicense.com/--->
 
-Este projeto usa a seguinte licença: [<license_name>] (<link>).
+Este projeto usa a seguinte licença: [<nome_da_licença>] (<link>).
