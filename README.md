@@ -1,4 +1,4 @@
-# Project name
+# Sys32
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
@@ -7,9 +7,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Sys32 is a tool that allows anyone to run windows.
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+Without sys32, you're very prone to having inferior technology and won't be able to code properly. Supposedly.
+NOTE: sys32 
 
 ## Prerequisites
 
@@ -19,37 +20,49 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+## Installing <sys32>
 
-To install <project_name>, follow these steps:
+To install sys32, follow these simple steps:
 
 Linux and macOS:
 ```
-<install_command>
+- Go to https://github.com/Zerkia/README-template.md
+- Clone the project via gitbash or click download zip after clicking the big green "code" button
+- download sys32
+- ???
+- Profit
 ```
 
 Windows:
 ```
-<install_command>
-```
-## Using <project_name>
+- Go to https://github.com/Zerkia/README-template.md
+- Clone the project via gitbash or click download zip after clicking the big green "code" button
+- download sys32
+- ???
+- Profit
 
-To use <project_name>, follow these steps:
+Then again, you already have sys32, so why are you here
+```
+## Using sys32
+
+To use sys32, follow these steps:
 
 ```
-<usage_example>
+- Run sys32.exe
+- Follow the guide wizard
+- You will now get windows installed on your non windows machine! (And a backdoor, but don't worry about that, that's natural)
 ```
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <project_name>
+## Contributing to sys32
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to sys32, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
+4. Push to the original branch: `git push origin sys32/<location>`
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
